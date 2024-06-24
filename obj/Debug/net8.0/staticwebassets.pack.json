@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\RDS\\Karyono\\Blazor\\BlazorFrontEnd\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\movement-ui.bundle.scp.css",
+      "PackagePath": "staticwebassets\\movement-ui.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\RDS\\Karyono\\Blazor\\BlazorFrontEnd\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\RDS\\Karyono\\Blazor\\BlazorFrontEnd\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\RDS\\Karyono\\Blazor\\BlazorFrontEnd\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\RDS\\Karyono\\Blazor\\BlazorFrontEnd\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.movement-ui.props",
+      "PackagePath": "build\\movement-ui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.movement-ui.props",
+      "PackagePath": "buildMultiTargeting\\movement-ui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.movement-ui.props",
+      "PackagePath": "buildTransitive\\movement-ui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.movement-ui.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
